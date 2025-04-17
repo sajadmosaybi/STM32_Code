@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:105:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:159:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:177:6:Led_Blink_Func	16	static
+../Core/Src/freertos.c:200:6:Led_2_Func	16	static
+../Core/Src/freertos.c:219:6:Led_3_Func	16	static
+../Core/Src/freertos.c:238:6:Timer_Func	16	static
