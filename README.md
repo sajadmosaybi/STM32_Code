@@ -3,6 +3,7 @@
 This guide explains **how to configure, build, and run an STM32 project that reads and writes data to an SD card using SDIO and FATFS**.
 It follows ControllersTech-style workflow and works for **STM32F4 + FreeRTOS or bare-metal**.
 
+![SD card interfacing with STM32 guide](Images/SDIO.png) 
 ---
 
 ## ⚙️ 1. Hardware Requirements
